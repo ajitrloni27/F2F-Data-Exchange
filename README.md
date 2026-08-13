@@ -2,6 +2,7 @@
 
 📌 Project Overview
 
+
 The Farmer System is a front-end, community-based web application designed to help farmers connect, share knowledge, and interact with each other.
 
 Users can register, log in, create crop-related posts, and engage with others through likes, dislikes, and comments. The platform also allows users to manage their profiles.
@@ -34,4 +35,5 @@ Clone the repository:
 
 git clone https://github.com/ajitrloni27/F2F-Data-Exchange-.git
 Open the project folder
+
 Double-click or open index.html in your browser
