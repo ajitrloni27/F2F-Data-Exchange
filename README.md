@@ -18,7 +18,8 @@ The application supports English and Kannada, making it accessible to a wider ru
 🔁 Forgot / Reset Password functionality
 🏠 Community Feed to view posts
 ✍️ Create posts (crop name, description, image)
-👍 Like and 👎 Dislike posts
+👍 Like 
+👎 Dislike posts
 💬 Comment system (comments always visible)
 🗑 Users can delete their own posts
 👥 View all registered farmers
