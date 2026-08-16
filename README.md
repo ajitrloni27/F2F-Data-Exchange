@@ -34,7 +34,7 @@ JavaScript (Vanilla JS) – Logic and interactivity
 
 Clone the repository:
 
-git clone https://github.com/ajitrloni27/F2F-Data-Exchange-.git
+git clone https://github.com/ajitrloni27/FarmVeda.git
 Open the project folder
 
 Double-click or open index.html in your browser
